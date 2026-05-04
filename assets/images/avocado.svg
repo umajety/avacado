@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" role="img" aria-labelledby="title">
+  <title>Avocado Illustration</title>
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7ac943"/>
+      <stop offset="100%" stop-color="#3c7c2d"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8d28b"/>
+      <stop offset="100%" stop-color="#c58b42"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 10C60 10 20 72 22 126c2 45 34 78 59 104 11 11 33 14 49 14 17 0 38-2 49-14 25-26 57-59 59-104 2-54-38-116-78-116z" fill="url(#g1)"/>
+  <ellipse cx="100" cy="125" rx="35" ry="44" fill="url(#g2)"/>
+  <circle cx="100" cy="120" r="20" fill="#603813"/>
+</svg>
