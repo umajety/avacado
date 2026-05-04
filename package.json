@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "echo \"This static site does not require a build.\"",
+    "build": "node scripts/build.js",
     "build:azure": "npm run build"
   }
 }
